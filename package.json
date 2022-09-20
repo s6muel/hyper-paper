@@ -1,0 +1,30 @@
+{
+  "name": "hyper-paper",
+  "version": "1.0.0",
+  "description": "Paper theme for the Hyper terminal",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "theme",
+    "paper",
+    "paper-theme",
+    "light"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s6muel/hyper-paper.git"
+  },
+  "author": "Samuel Sinclair",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/s6muel/hyper-paper/issues"
+  },
+  "homepage": "https://github.com/s6muel/hyper-paper#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
