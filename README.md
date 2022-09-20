@@ -4,6 +4,9 @@ The extremely legible light theme for the [Hyper Terminal](https://github.com/ve
 ![Paper Hyper theme](https://raw.githubusercontent.com/s6muel/paper-theme/main/screenshots/hyper-eg.png)
 
 ## Installation
+1. Open `Hyper` terminal
+2. Run `hyper i hyper-paper`
+3. Enjoy!
 
 ## Related Projects
 - [Paper Theme](https://gitlab.com/samue1/paper-theme) project for a range of applications c/o Samuel Sinclair
